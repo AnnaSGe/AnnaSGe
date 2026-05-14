@@ -27,5 +27,5 @@ Robotics • Embedded AI • Autonomous Systems • Computer Vision • Human-Ro
 
 ## Reach Me
 📧 annasunnygeorge012@gmail.com  
-🔗 linkedin.com/in/anna-george  
+🔗 linkedin.com/in/anna-george-56a203293
 💻 github.com/AnnaSGe
