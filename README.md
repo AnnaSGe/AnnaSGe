@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Anna 👋
 
-<!--
-**AnnaSGe/AnnaSGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year B.Tech CSE (AI & Robotics) student at VIT Chennai interested in robotics, embedded systems, autonomous systems, and AI-driven applications.
 
-Here are some ideas to get you started:
+I enjoy building systems that combine software with real-world hardware — from ROS2 simulations and robot communication to embedded control systems and computer vision pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Multi-robot coordination using ROS2 + Gazebo
+- Smart robotic gripper with force feedback
+- Computer vision + AI projects
+- Embedded systems using ESP32 and Arduino
+
+## Tools & Technologies
+- ROS2
+- Gazebo
+- Python
+- C/C++
+- OpenCV
+- PyTorch
+- TensorFlow
+- ESP32 / Arduino / Raspberry Pi
+- Linux
+- Git & GitHub
+
+## Interests
+Robotics • Embedded AI • Autonomous Systems • Computer Vision • Human-Robot Interaction
+
+## Reach Me
+📧 annasunnygeorge012@gmail.com  
+🔗 linkedin.com/in/anna-george  
+💻 github.com/AnnaSGe
