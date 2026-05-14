@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-Third-year B.Tech CSE (AI & Robotics) student at VIT Chennai interested in robotics, embedded systems, autonomous systems, and AI-driven applications.
+Third-year B.Tech CSE (AI & Robotics) student interested in robotics, embedded systems, autonomous systems, and AI-driven applications.
 
 I enjoy building systems that combine software with real-world hardware — from ROS2 simulations and robot communication to embedded control systems and computer vision pipelines.
 
